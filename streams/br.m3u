@@ -163,6 +163,8 @@ https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
 https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
 #EXTINF:-1 tvg-id="RITTV.br",RIT TV (1080p)
 https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-id="RedeNacionalDeTelevisão.br",RNT HD (720p)
+https://live20.bozztv.com/giatv/giatv-redenacionaldetelevisao/redenacionaldetelevisao/playlist.m3u8
 #EXTINF:-1 tvg-id="SantaCeciliaTV.br",Santa Cecilia TV (1080p)
 https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
 #EXTINF:-1 tvg-id="SantaCeciliaTV.br",Santa Cecilia TV (1080p) [Not 24/7]
@@ -408,3 +410,4 @@ https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
 http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1 tvg-id="PremiereClubes.br",Premiere Clubes
 http://187.120.222.37:721/
+
